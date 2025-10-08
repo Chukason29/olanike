@@ -20,7 +20,7 @@
 -->
         <div id="main-banner-writ">
           <div class="main-banner-writ-left">
-                <img src="" alt="">
+                <img src="./img/come-up-higher-logo.jpg" alt="">
               <h1 class="animate__animated animate__flipInX animate__slow"><em>Come Up Higher</em></h1>
               <h3 class="animate__animated animate__flipInX animate__slow">To Greater Levels</h3>
               <p>
