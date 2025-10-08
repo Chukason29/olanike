@@ -1,0 +1,34 @@
+#main-banner video{
+    width: 100%;
+}
+#main-banner #main-banner-writ h2, #main-banner #main-banner-writ h1{
+    color: goldenrod;
+}
+#livestream{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    padding: 3rem 1rem;
+}
+#livestream iframe{
+    width:560px;
+    height :315px
+}
+
+@media screen and (max-width: 598px) {
+    #main-banner #main-banner-writ h2, #main-banner #main-banner-writ h1{
+        color: goldenrod;
+        font-size: 1.75rem;
+    }
+    #livestream{
+        display: block;
+    }
+    #livestream > div{
+        margin-top: 1rem;
+    }
+    #livestream iframe{
+        width:100%;
+        height :100%
+    }
+}
