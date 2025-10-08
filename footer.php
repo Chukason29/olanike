@@ -1,3 +1,13 @@
+    <section id="coaching">
+      <div class="coaching-head">
+        <h1>Mentorship Program <em>with</em><br><strong style="display: inline-block; margin-top:20px">Olanike Bejide</strong></h1>
+      </div>
+      <div class="coaching-body">
+          <iframe width="640" height="360" src="https://www.youtube.com/embed/6QKglwLHmdA?si=m3UWG542qTiK7_Ep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <div><a href="http://">More sessions with Olanike <i class="fa-solid fa-arrow-right-to-bracket"></i></a></div>
+            
+      </div>
+    </section>
     <section class="section footer">
       <div class="footer-section-one">
         <hr>
@@ -13,25 +23,32 @@
             <h3>Explore</h3>
             <ul>
                 <li><a href="about">About</a></li>
-                <li><a href="give">CUH2GL</a></li>
-                <li><a href="livestream">Events</i></a></li>
+                <li><a href="cuh2gl">CUH2GL</a></li>
+                <li><a href="event">Events</i></a></li>
                 <li><a href="contact">Contact us</a></li>
-                <li><a href="contact">Empowerment</a></li>
-                <li><a href="blog">Blog</a></li>
-                <li><a href="https://ggac.com.ng/shop/" target="_blank" id="mobile-header-booking">Audio Shop</a></li>              
+                <li><a href="empowerment">Empowerment</a></li>
+                <li><a href="shop" target="_blank" id="mobile-header-booking">Shop</a></li>              
             </ul>
           </div>
         </div>
         <div class="footer-business">
-          <h4>Reach Us</h4>
+          <h4>Reach Out</h4>
           <ul>
             <li><a href="">enquiries@ggac.com.ng</a></li>
             <li><a href="#">+234(0)803-538-4271</a></li>
+            <li><strong>Olanike Bejide</strong></li>
             <li class="footer-socials">
-              <a href=""><i class="fa-brands fa-facebook-f"></i></a>
-              <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
-              <a href=""><i class="fa-brands fa-x-twitter"></i></a>
-              <a href=""><i class="fa-brands fa-instagram"></i></a>
+              <a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+              <a href="https://www.youtube.com/@olanikebejidecomeuphigher" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+              <a href="" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+              <a href="https://www.instagram.com/olanikebejide?igsh=bXBqZHRtdWxzb2h0&utm_source=qr" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            </li><br>
+            <li><strong>Come Up Higher</strong></li>
+            <li class="footer-socials">
+              <a href="https://www.facebook.com/share/1FX4gjasaW/?mibextid=wwXIfr" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+              <a href="" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+              <a href="https://www.tiktok.com/@comeuphighertgls?_t=ZN-90MLzXc2ESc&_r=1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+              <a href="https://www.instagram.com/comeuphigher_2gl?igsh=OTUxNHBhemV1YTZu&utm_source=qr" target="_blank"><i class="fa-brands fa-instagram"></i></a>
             </li>
           </ul>
         </div>

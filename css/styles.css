@@ -137,6 +137,7 @@ nav i{
     position: relative;
     font-family: "DM Sans", sans-serif;
     background-color: rgba(255, 192, 203, .2);
+    background: linear-gradient(90deg, rgba(255, 192, 203, .2), rgba(52, 0, 52, .35));
     height: 107vh;
     border-radius: 12px;
     padding-inline: 2rem;
@@ -236,10 +237,11 @@ nav i{
 .module-up-writ{
     font-family: "Montserrat", sans-serif;
     display: inline-block;
-    letter-spacing: .6rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
 }
 .module-down-writ{
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     font-family: "Oswald", sans-serif;
     display: inline-block;
     margin-top: -15px;
@@ -262,19 +264,33 @@ nav i{
     display: flex;
     gap: 2rem;
     margin-top: 2rem;
-    overflow-x: scroll;
     justify-content: center;
 }
 
-
 #book-section{
-    padding: 3rem 5rem;
+    padding: 2rem 5rem;
     font-family: "DM Sans", sans-serif;
     background-color: rgba(51, 0, 51, .15);
 }
 
-
-
+.book-section-body{
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.book-section-head{
+    text-align: center;
+}
+.book-section-body-right{
+    width: 60%;
+}
+.book-section-body-right h1{
+    margin-bottom: 2rem;
+}
+.book-section-body-right p{
+    font-size: 1.15rem;
+}
 #our-promise{
     width: 100%;
     height: 100vh;
@@ -501,7 +517,7 @@ nav i{
     display: flex;
     align-items: center;
     gap: 1rem;
-    padding: 3rem 10rem;
+    padding: 3rem 10rem 1rem 10rem;
 }
 .testimonies-header{
     letter-spacing: 3.5px;
@@ -545,7 +561,27 @@ nav i{
     background-image: linear-gradient(90deg, rgba(233, 210, 0, 0.95), rgba(777, 0, 77, .4));
     border-radius: 40px;
 }
-
+#coaching{
+    padding: 2rem 0rem;
+    background-color: rgba(255, 192, 203, .2);
+}
+.coaching-head{
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.coaching-body{
+    text-align: center;
+}
+.coaching-body a{
+    background-color: var(--main-color);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 1rem 6rem;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 2rem;
+}
 .footer{
     background-color: var(--black-color);
     font-family: "Montserrat", sans-serif;
@@ -686,6 +722,12 @@ nav i{
     .module-list{
         width: 100%;
         position: relative;
+    }
+    #book-section{
+        padding: 1.5rem;
+    }
+    .book-section-body{
+        display: block;
     }
     #smiling-section{
         height: auto;

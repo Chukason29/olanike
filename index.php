@@ -30,53 +30,54 @@
               </p>
               <a href="http://">Start Here</a>
           </div>
-          <div><img src="./img/olanike222.png" alt=""></div>
+          <div><img src="./img/olanike-main.png" alt=""></div>
             
         </div>
     </section>
     <section id="module">
-      <h1>Programs</h1>
+      <h1>Programs</h1><br><br>
       <div class="module-div">
         <div class="module-list animated-element">
           <img src="./img/module-image1.jpg" alt="">
           <div class="module-writ">
-            <h3><span class="module-up-writ">Lorem</span><br><span class="module-down-writ">IPSUM</span></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <h3><span class="module-up-writ">Get</span><br><span class="module-down-writ">EMPOWERED</span>
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>-->
             
           </div>
         </div>
         <div class="module-list animated-element">
-          <img src="./img/module-image4.jpg" alt="">
+          <img src="./img/module-image2.jpg" alt="">
           <div class="module-writ">
-            <h3><span class="module-up-writ">Lorem</span><br><span class="module-down-writ">IPSUM</span></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-          </div>
-        </div>
-        <div class="module-list animated-element">
-          <img src="./img/module-image5.jpg" alt="">
-          <div class="module-writ">
-            <h3><span class="module-up-writ">Lorem</span><br><span class="module-down-writ">IPSUM</span></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <h3><span class="module-up-writ">Go</span><br><span class="module-down-writ">HIGHER</span></h3>
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>-->
           </div>
         </div>
         <div class="module-list animated-element">
           <img src="./img/module-image3.jpg" alt="">
           <div class="module-writ">
-            <h3><span class="module-up-writ">Lorem</span><br><span class="module-down-writ">IPSUM</span></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <h3><span class="module-up-writ">Properly</span><br><span class="module-down-writ">COACHED</span></h3>
+            <p></p>
+          </div>
+        </div>
+        <div class="module-list animated-element">
+          <img src="./img/module-image4.jpg" alt="">
+          <div class="module-writ">
+            <h3><span class="module-up-writ">Duly</span><br><span class="module-down-writ">MENTORED</span></h3>
+            <p></p>
           </div>
         </div>
       </div>
     </section>
     <section id="smiling-section" class="">
-      <video class="smiley-1" src="./img/video.mp4"autoplay muted loop></video>
+      <video class="smiley-1" src="./img/video.mp4" autoplay muted loop></video>
       <video class="smiley-2"src="./img/mobile-smiley-video.mp4" autoplay muted loop>dwedwqed</video>
       <div class="smiling-section-writ">
         <div>
           <h1>Experience</h1>
           <h1>Lorem Ipsum met service of</h1>
           <p>
-            At GGAC, God's prophetic movement is visible, using His servant for his glory
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat est officiis voluptatum 
+            voluptates modi nemo veniam rem possimus
           </p>
         </div>  
       </div>
@@ -112,12 +113,12 @@
       <div class="book-section-head">
         <h1>Available Books</h1>
       </div>
-      <div class="books-section-body">
-        <div class="books-section-body-left">
+      <div class="book-section-body">
+        <div class="book-section-body-left">
           <img src="./img/book1.png" alt="">
         </div>
-        <div class="books-section-body-right">
-          <h2>SHIFTS: 6 Steps to Transform Your Mindset and Elevate Your Leadership 1st Edition</h2>
+        <div class="book-section-body-right">
+          <h1>SHIFTS: 6 Steps to Transform Your Mindset and Elevate Your Leadership 1st Edition</h1>
           <p>
             Your step-by-step guide to master the art of transformational leadership. In SHIFTS, 
             Dr. Sam Adeyemi provides a step-by-step blueprint for leaders to create lasting 
@@ -259,19 +260,6 @@
             <span class="visually-hidden">Next</span>
           </button>
         </div>
-    </section>
-    <section id="smiling-section" class="">
-      <img class="smiling-section-img1" src="./img/pastor.jpg" alt="Uche Okere Dr Motivation Success Leadership">
-      <img class="smiling-section-img2" src="./img/uche-img1-mobile.jpg" alt="Uche Okere Dr Motivation Success Leadership">
-      <div class="smiling-section-writ">
-        <div>
-          <h1>Get Ready To Achieve Greatness</h1>
-          <h1>Through The Anointing</h1>
-          <p>
-            Join Us
-          </p>
-        </div>  
-      </div>
     </section>
     <?php include "footer.php"?>
 </body>
