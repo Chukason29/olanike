@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="God's Greatness Achievers Int'l Church">
     <link rel="stylesheet" href="./css/styles.css">
-    <link rel="stylesheet" href="./css/menu.css">
+    <link rel="stylesheet" href="./css/cuh2gl.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/6c1ada6317.js" crossorigin="anonymous"></script>
@@ -15,9 +15,6 @@
 <body>
     <?php include "header.php"?>
     <section id="main-banner">        
-        <!--<img class="main-banner-img1" src="./img/main-banner.jpg" class="w-100" alt="God's Greatness">
-        <img class="main-banner-img2" src="./img/module-image4.jpg" class="w-100" alt="God's Greatness">
--->
         <div id="main-banner-writ">
           <div class="main-banner-writ-left">
                 <img src="./img/come-up-higher-logo.jpg" alt="">
@@ -34,6 +31,66 @@
           <div><img src="./img/olanike-main.png" alt=""></div>
             
         </div>
+    </section>
+    <section id="story">
+      <div class="story-head">
+        <h1>Our story</h1>
+      </div>
+      <div class="story-body">
+        <div class="story-list-left">
+          <p>
+            lorem ipsium dolor sit amet consectetur adipisicing elit.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+            Facilis eius dicta sequi, commodi quo nam sapiente excepturi 
+            numquam atque eos ducimus obcaecati nesciunt amet velit placeat
+            debitis dolores vitae dolor!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum 
+            voluptatem numquam asperiores illo libero, qui reprehenderit beatae.
+            Delectus blanditiis totam provident 
+            quisquam quaerat laboriosam ipsum? Ut dolores quaerat fuga sequi.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio velit 
+            laborum necessitatibus reprehenderit fuga voluptate magnam et, ducimus ab exercitationem 
+            officia illum cum odit amet. Architecto est repellat dicta autem.
+          </p>
+        </div>
+        <div class="story-list-right">
+          <img src="./img/come-up-higher-logo.jpg" alt="">
+        </div>
+      </div>
+    </section>
+    <section id="module" style="background-color: #f4f4f4;">
+      <h1 style="color: rgb(51, 0, 51);">CUH2GL Projects</h1><br><br>
+      <div class="module-div">
+        <div class="module-list animated-element">
+          <img src="./img/module-image1.jpg" alt="">
+          <div class="module-writ">
+            <h3><span class="module-up-writ">School</span><br><span class="module-down-writ">VISITS</span>
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>-->
+            
+          </div>
+        </div>
+        <div class="module-list animated-element">
+          <img src="./img/module-image2.jpg" alt="">
+          <div class="module-writ">
+            <h3><span class="module-up-writ">Community</span><br><span class="module-down-writ">PROJECTS</span></h3>
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>-->
+          </div>
+        </div>
+        <div class="module-list animated-element">
+          <img src="./img/module-image3.jpg" alt="">
+          <div class="module-writ">
+            <h3><span class="module-up-writ">Help The</span><br><span class="module-down-writ">GIRL CHILD</span></h3>
+            <p></p>
+          </div>
+        </div>
+        <div class="module-list animated-element">
+          <img src="./img/module-image4.jpg" alt="">
+          <div class="module-writ">
+            <h3><span class="module-up-writ">Less </span><br><span class="module-down-writ">PRIVILEGED</span></h3>
+            <p></p>
+          </div>
+        </div>
+      </div>
     </section>
     <?php include "footer.php"?>
 </body>

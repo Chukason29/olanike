@@ -22,7 +22,7 @@
 </div>
     <nav>
         <div id="logo">
-            <a href="https://ggac.com.ng/"><img src="./img/logo-black.png" alt=""></a>
+            <a href="https://olanikebejide.com"><img src="./img/logo-black.png" alt=""></a>
         </div>
         <div id="menu">
             <ul>

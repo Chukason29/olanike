@@ -10,7 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/6c1ada6317.js" crossorigin="anonymous"></script>
     <title>Olanike Bejide | Home</title>
-    <link rel="icon" href="./img/ggac-logo.png" type="image/png">
+    <link rel="icon" href="" type="image/png">
 </head>
 <body>
     <?php include "header.php"?>
@@ -88,12 +88,12 @@
         <img src="./img/olanike1.jpg" alt="">
       </div>
       <div class="success-list-div success-list-writ animated-element">
-        <p class="we"><span></span><strong>We welcome you to GGAC</strong><span></span></p>
+        
         <h2>
-          <strong>At GGAC, God's Grace is ever ready to propel you to great achievements</strong>
+          <strong>At CUH2GL, God's Grace is ever ready to propel you to great achievements</strong>
         </h2>
         <p class="success-list-body">
-            Welcome to our church, a place where we celebrate the endless grace and power of God! Through His 
+            Welcome to our community, a place where we celebrate the endless grace and power of God! Through His 
             guidance and love, we've witnessed incredible achievements in building faith, transforming lives, and 
             reaching out to our community with compassion and hope. Each step we take is a testament to God’s miraculous work,
         </p>
@@ -115,31 +115,35 @@
       </div>
       <div class="book-section-body">
         <div class="book-section-body-left">
-          <img src="./img/book1.png" alt="">
+          <img src="./img/book1.jpg" alt="">
         </div>
         <div class="book-section-body-right">
-          <h1>SHIFTS: 6 Steps to Transform Your Mindset and Elevate Your Leadership 1st Edition</h1>
+          <h1>Created to Be More: A Holistic Approach to A Better You</h1>
           <p>
-            Your step-by-step guide to master the art of transformational leadership. In SHIFTS, 
-            Dr. Sam Adeyemi provides a step-by-step blueprint for leaders to create lasting 
-            positive change. Drawing from over 30-years of leadership coaching experience, 
-            Dr. Adeyemi teaches readers the importance of 
-            personal development, cultural awareness, and leading effectively in a globalized world.
+            Do you ever feel like you’re meant for more but aren’t sure how to get there? 
+            <em>Created to Be More</em> is your guide to living with purpose, balance, and fulfilment.
+            This book takes a <strong>holistic approach</strong> to personal growth, helping you strengthen your <strong>mind, body, and spirit</strong> so you can become the best version of yourself.
+            <br>
+            Inside, you’ll discover:
           </p>
-          <ol type="1">
-            <li><strong>See:</strong> Cultivate vision to recognize opportunities and challenges.</li>
-            <li><strong>Hear:</strong> Listen deeply to understand spoken and unspoken messages.</li>
-            <li><strong>Insight:</strong> Synthesize information to gain clear perspectives for decision-making.</li>
-            <li><strong>Formulate:</strong> Develop innovative and practical strategies from insights.</li>
-            <li><strong>Transform:</strong> Implement strategies to drive change and achieve goals.</li>
-            <li><strong>Succeed:</strong> Sustain positive change and inspire continuous growth.</li>
-        </ol>
+          <ul>
+            <li>Simple steps to find clarity and direction in your life</li>
+            <li>Practical ways to improve your mindset and emotional well-being</li>
+            <li>Tips for building stronger, more meaningful relationships</li>
+            <li>Strategies to boost your physical health and energy</li>
+            <li>Guided journal prompts to help you reflect and take action</li>
+          </ul>
         </div>
       </div>
     </section>
     <section id="our-promise">
       <div id="our-promise-writ">
-        <h1>Join us to Pray, Praise, Study and Fellowship </h1>
+        <!--<h1>Join us to Pray, Praise, Study and Fellowship </h1>-->
+        <h1>Come Up Higher To Greater Heights</h1>
+        <p>
+          Free, Christ-centred prayer and empowerment space where women are spiritually <br>
+          strengthened and practically equipped to ‘come up higher to greater levels.’”
+        </p><br>
       </div>
       <div id="our-promise-images">
         <div class="our-promise-images-div our-promise-images-left animated-element">
@@ -150,7 +154,7 @@
               </div>
               <div>
                 <h1>Study God's Word</h1>
-                <p>God's word have a free flow in GGAC. Join Us</p>
+                <p>God's word have a free flow in CUH2GL. Join Us</p>
               </div> 
           </div>
         </div>
@@ -176,8 +180,8 @@
                     <i class="fa-solid fa-earth-americas"></i>
                   </div>
                   <div>
-                    <h3>Unending Praise</h3>
-                    <p>Praise the Lord all ye people. "Praise Him with a dance"</p>
+                    <h3>Huge Community</h3>
+                    <p>At CUH2GL, we encourage ourselves to greater heights</p>
                   </div> 
               </div>
             </div>
@@ -190,11 +194,11 @@
       <div class="get-started-writ">
         <div>
           <p class="get-started-header"><span></span>JOIN US TODAY</p>
-          <h1>Join us today, as we raise men and women that are achieving greatness through the awesome power and grace of God</h1>
+          <h1>Join us today, as we raise women that are achieving greatness through the awesome power and grace of God</h1>
           <p class="get-started-down-writ">
             
           </p>
-          <a href="https://ggac.com.ng/shop/" target="_blank">Join Us</a>
+          <a href="shop" target="_blank">Join Us</a>
         </div>
       </div>
     </section>
@@ -203,7 +207,7 @@
         <p class="testimonies-header"><span></span>TESTIMONIES</p>
         <h2>Read Inspiring Testimonies of Great Achievers.</h2>
         <p class="mt-4 mb-4">
-          At GGAC, we overcome challenges to our achievements through inspiring testimonies of what God is doing
+          At CUH2GL, we overcome challenges to our achievements through inspiring testimonies of what God is doing
         </p>
       </div>
         <div id="carouselExampleControls" class="carousel slide animated-element" data-bs-ride="carousel">
@@ -218,7 +222,7 @@
                       God’s goodness has been my constant guide, filling my life with grace, protection, and unearned blessings. 
                       His love lifts me daily, reminding me of His faithfulness in every season.
                     </p>
-                    <p class="client-name"><strong>John</strong></p>
+                    <p class="client-name"><strong>Stephanie</strong></p>
                 </div>
               </div>
             </div>

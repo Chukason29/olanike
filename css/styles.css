@@ -58,10 +58,10 @@ div#mobile-nav{
     margin-block-start: 1.5rem;
 }
 div#mobile-nav i{
-    color: goldenrod
+    color: #ffffff;
 }
 #mobile-nav-div > ul >li > a{
-    color: goldenrod;
+    color: #fff;
     text-decoration: none;
     display: inline-block;
     padding: .5rem;
@@ -119,7 +119,7 @@ nav a:hover{
     color: rgb(252, 195, 252)
 }
 nav i{
-    color: goldenrod;
+    color: #ffffff;
 }
 #order-request{
     color: var(--black-color);
@@ -139,13 +139,12 @@ nav i{
     background-color: rgba(255, 192, 203, .2);
     background: linear-gradient(90deg, rgba(255, 192, 203, .2), rgba(52, 0, 52, .35));
     height: 107vh;
-    border-radius: 12px;
     padding-inline: 2rem;
 }
 #main-banner img{
     max-width: 100%;
     border-radius: 12px;
-    filter: brightness(.5);
+    /*filter: brightness(.5);*/
     margin: auto;
 }
 .main-banner-img2{
@@ -294,7 +293,7 @@ nav i{
 #our-promise{
     width: 100%;
     height: 100vh;
-    padding: 0 10rem;
+    padding: 2rem 6rem;
 }
 #our-promise img{
     max-width: 100%;
@@ -573,6 +572,10 @@ nav i{
 .coaching-body{
     text-align: center;
 }
+.coaching-body iframe{
+    width: 640px;
+    height: 360px;
+}
 .coaching-body a{
     background-color: var(--main-color);
     color: #ffffff;
@@ -671,7 +674,8 @@ nav i{
 }
 @media screen and (max-width: 598px) {
     nav{
-        padding: 1.5rem .75rem; 
+        padding: .5rem .75rem; 
+        justify-content: space-between;
     }
     nav #orders{
         display: none;
@@ -680,7 +684,7 @@ nav i{
         display: none;
     }
     nav img{
-        width: 170px;
+        width: 100px;
     }
     #mobile-menu{
         color: #ffffff;
@@ -690,10 +694,15 @@ nav i{
         margin-top: -15px;
     }
     #main-banner{
-        padding: 2rem .5rem;
+        padding: 2rem 2.5rem;
+        height: auto;
     }
     #main-banner-writ{
-        padding-left: 1rem;
+        padding:2rem 0 0 0;
+        display: block;
+    }
+    .main-banner-writ-left{
+        width: 100%;
     }
     #main-banner-writ h1{
         font-size: 2.5rem;
@@ -717,17 +726,42 @@ nav i{
         gap: 1.5rem;
         color: #ffffff;
         text-align: center;
-        overflow-x: scroll;
+    }
+    .module-div{
+        display: block;
     }
     .module-list{
         width: 100%;
         position: relative;
+        margin-top: 1rem;
+    }
+    #home-events{
+        padding: 3rem 1rem;
+        font-family: "DM Sans", sans-serif;
+    }
+    .home-events-body{
+        display: block;
+    }
+    .home-events-body img{
+        display: inline-block;
+        margin-top: 1rem;
+        max-width: 100%;
     }
     #book-section{
         padding: 1.5rem;
     }
     .book-section-body{
         display: block;
+    }
+    .book-section-body img{
+        max-width: 100%;
+    }
+    .book-section-body-right{
+        margin-top: 2.5rem;
+        width: 100%;
+    }
+    .book-section-body-right h1{
+        margin-bottom: 1rem;
     }
     #smiling-section{
         height: auto;
@@ -866,6 +900,14 @@ nav i{
     }
     #smiling-section{
         display: none;
+    }
+    .coaching-body iframe{
+        width: 90%;
+        height: 400px;
+    }
+    .coaching-body a{
+
+        padding: 1rem 4rem
     }
     .footer{
         padding: 1rem 2rem;

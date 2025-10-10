@@ -3,8 +3,8 @@
         <h1>Mentorship Program <em>with</em><br><strong style="display: inline-block; margin-top:20px">Olanike Bejide</strong></h1>
       </div>
       <div class="coaching-body">
-          <iframe width="640" height="360" src="https://www.youtube.com/embed/6QKglwLHmdA?si=m3UWG542qTiK7_Ep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <div><a href="http://">More sessions with Olanike <i class="fa-solid fa-arrow-right-to-bracket"></i></a></div>
+          <iframe src="https://www.youtube.com/embed/6QKglwLHmdA?si=m3UWG542qTiK7_Ep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <div><a href="https://www.youtube.com/@olanikebejidecomeuphigher">More sessions with Olanike <i class="fa-solid fa-arrow-right-to-bracket"></i></a></div>
             
       </div>
     </section>
@@ -34,8 +34,8 @@
         <div class="footer-business">
           <h4>Reach Out</h4>
           <ul>
-            <li><a href="">enquiries@ggac.com.ng</a></li>
-            <li><a href="#">+234(0)803-538-4271</a></li>
+            <li><a href="">info@olanikebejide.org</a></li>
+            <li><a href="#">+44-0000-000-000</a></li>
             <li><strong>Olanike Bejide</strong></li>
             <li class="footer-socials">
               <a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -54,7 +54,7 @@
         </div>
         <div>
           <h4>Address</h4>
-          <p>Rukuba Rd, Jos 930105, Plateau</p>
+          <p>Kent Road, Sheffield 930105, United Kingdom</p>
         </div>
       </div>
     </section>

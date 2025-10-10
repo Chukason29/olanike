@@ -1,0 +1,22 @@
+#story{
+    padding: 2rem 5rem;
+    background: linear-gradient(to right, rgb(51, 0, 51), #e9ecef);
+    color: #fff;
+}
+.story-head{
+    text-align: left;
+    padding-left: 7rem;
+    margin-bottom: 2rem;
+}
+.story-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.story-body p{
+    font-size: 1.1rem;
+}
+.story-list-left{
+    width: 45%;
+    text-align: justify;
+}
