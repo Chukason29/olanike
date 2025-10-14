@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="God's Greatness Achievers Int'l Church">
+    <meta name="keywords" content="Leadership Development Coaching Mentorship Olanike Bejide CUH2GL">
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="./css/cuh2gl.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/6c1ada6317.js" crossorigin="anonymous"></script>
     <title>Olanike Bejide | CUH2GL</title>
-    <link rel="icon" href="./img/ggac-logo.png" type="image/png">
+    <link rel="icon" href="./img/ob2.png" type="image/png">
 </head>
 <body>
     <?php include "header.php"?>
@@ -91,6 +91,128 @@
           </div>
         </div>
       </div>
+    </section>
+
+    <section id="main-service">
+      <div class="main-service-div">
+        <div class="main-service-div-left animated-element">
+          <h1>Volunteer</h1>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ducimus 
+            eaque
+            quo, tenetur sint veniam? Ex animi rerum amet facilis, 
+            exercitationem vero mollitia nihil dolor eaque aliquid? Possimus, molestias corrupti!
+            eaque quo, tenetur sint veniam? Ex animi rerum amet facilis, 
+            exercitationem vero mollitia nihil dolor eaque aliquid? Possimus, molestias corrupti!
+          </p>
+          <a href="http://">Follow Our Socials</a>
+        </div>
+        <div class="main-service-right animated-element">
+          <img src="./img/contact-person.jpg" alt="">
+        </div>
+      </div>
+      <div class="main-service-div2">
+        <div class="main-service-right animated-element">
+          <img src="./img/testimonies-img2.jpg" alt="">
+        </div>
+        <div class="main-service-div-left animated-element">
+          <h1>Volunteer</h1>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ducimus 
+            eaque
+            quo, tenetur sint veniam? Ex animi rerum amet facilis, 
+            exercitationem vero mollitia nihil dolor eaque aliquid? Possimus, molestias corrupti!
+            eaque quo, tenetur sint veniam? Ex animi rerum amet facilis, 
+            exercitationem vero mollitia nihil dolor eaque aliquid? Possimus, molestias corrupti!
+          </p>
+          <a href="http://">Follow Our Socials</a>
+        </div>
+      </div>
+      <div class="main-service-div">
+        <div class="main-service-div-left animated-element">
+          <h1>Volunteer</h1>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ducimus 
+            eaque
+            quo, tenetur sint veniam? Ex animi rerum amet facilis, 
+            exercitationem vero mollitia nihil dolor eaque aliquid? Possimus, molestias corrupti!
+            eaque quo, tenetur sint veniam? Ex animi rerum amet facilis, 
+            exercitationem vero mollitia nihil dolor eaque aliquid? Possimus, molestias corrupti!
+          </p>
+          <a href="http://">Follow Our Socials</a>
+        </div>
+        <div class="main-service-right animated-element">
+          <img src="./img/testimonies-img1.jpg" alt="">
+        </div>
+      </div>
+    </section>
+    <section id="our-team">
+        <h2 class="text-center mb-5">CUH2GL Team</h2>
+        <div id="our-team-div">
+            <div class="our-team-div-list">
+                <img src="./img/alamin.jpg" alt="">
+                <h3>Olanike Bejide</h3>
+                <p>Convener</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/farida.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/idara.jpg" alt="">
+                <h3>XXXXXXXXXXX XXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/sharon.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/jatto.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+        </div>
+        <div id="our-team-div">
+            <div class="our-team-div-list">
+                <img src="./img/michael.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/kenneth.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+
+            <div class="our-team-div-list">
+                <img src="./img/michael.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/Inuwa.jpg" alt="">
+                <h3>XXXXXXXXXX XXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+            <div class="our-team-div-list">
+                <img src="./img/akor.jpg" alt="">
+                <h3>XXXXXXXXX XXXXXXXXXXX</h3>
+                <p>xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxx</p>
+                
+            </div>
+        </div>
     </section>
     <?php include "footer.php"?>
 </body>

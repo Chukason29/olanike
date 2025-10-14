@@ -20,3 +20,110 @@
     width: 45%;
     text-align: justify;
 }
+#main-service{
+    background-color: rgba(255, 192, 203, .2);
+}
+.main-service-div{
+    display: flex;
+    gap: 6rem;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem 10rem; 
+    background: url(../img/abans.png);
+    background-repeat: no-repeat;
+    background-position: -20% 10% ;
+    background-size: 60%;
+}
+.main-service-div2{
+    display: flex;
+    gap: 6rem;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem 10rem; 
+    background: url(../img/abans.png);
+    background-repeat: no-repeat;
+    background-position: 150% 0%;
+    background-size: 50%;
+}
+.main-service-div div, .main-service-div2 div{
+    width: 40%;
+}
+.main-service-div a, .main-service-div2 a{
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(51, 0, 51);
+    padding: .75rem 3rem;
+    display: inline-block;
+    margin-top: 1.5rem;
+}
+.main-service-div p, .main-service-div2 p{
+    font-size: 1.2rem;
+    margin-block: 1.5rem;
+}
+.main-service-div img, .main-service-div2 img{
+    border-radius: 2rem;
+    max-width: 100%;
+}
+#our-team{
+    text-align: center;
+    padding: 4rem 2rem;
+}
+#our-team a{
+    text-decoration: none;
+    color: #252525;
+}
+#our-team img{
+    max-width: 100%;
+}
+#our-team-div{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+.our-team-div-list{
+    width: 20%;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px){
+    #our-values-div{
+        display: block;
+    }
+    #story{
+        padding: 2rem 1rem;
+        background: linear-gradient(to right, rgb(51, 0, 51), rgb(51, 0, 51));
+    }
+    .story-head h1{
+        font-size: 2.5rem;
+    }
+    .story-body{
+        display: block;
+    }
+    .story-list-left, .story-list-right{
+        width: 100%;
+    }
+    .main-service-div, .main-service-div2{
+        flex-direction: column;
+        padding: 1rem;
+        background-size: 100%;
+    }
+    .main-service-div2{
+        flex-direction: column-reverse;
+    }
+    .main-service-div div, .main-service-div2 div{
+        width: 100%;
+    }
+    .main-service-div h1, .main-service-div2 h1{
+        font-size: 2.5rem;
+    }
+    #our-team-div{
+        display: block;
+    }
+    #our-team{
+        padding: 4rem 0rem;
+    }
+    .our-team-div-list{
+        width: 90%;
+        margin: 1rem auto;
+    }
+}

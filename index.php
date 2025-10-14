@@ -10,14 +10,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/6c1ada6317.js" crossorigin="anonymous"></script>
     <title>Olanike Bejide | Home</title>
-    <link rel="icon" href="" type="image/png">
+    <link rel="icon" href="./img/ob2.png" type="image/png">
 </head>
 <body>
     <?php include "header.php"?>
     <section id="main-banner">        
-        <!--<img class="main-banner-img1" src="./img/main-banner.jpg" class="w-100" alt="God's Greatness">
-        <img class="main-banner-img2" src="./img/module-image4.jpg" class="w-100" alt="God's Greatness">
--->
         <div id="main-banner-writ">
           <div class="main-banner-writ-left">
               <h1 class="animate__animated animate__flipInX animate__slow">Life is extraordinary.</h1>
@@ -85,7 +82,7 @@
     
     <section id="success-list">
       <div class="success-list-div animated-element">
-        <img src="./img/olanike1.jpg" alt="">
+        <img src="./img/olanike4.jpg" alt="">
       </div>
       <div class="success-list-div success-list-writ animated-element">
         
