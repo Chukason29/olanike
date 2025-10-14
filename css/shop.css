@@ -1,0 +1,49 @@
+#bookstore {
+    padding: 2rem 7rem;
+}
+.bookstore-head{
+    text-align: center;
+}
+.bookstore-head h2{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #333;
+}
+.bookstore-head p{
+    font-size: 1.2rem;
+    color: #666;
+}
+.bookstore-content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.bookstore-item{
+    width: 22%;
+    text-align: center;
+}
+.bookstore-item a{
+    color: #fff;
+    background-color: rgb(51, 0, 51);
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+.bookstore-item img{
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 600px){
+    #bookstore {
+        padding: 2rem 1rem;
+    }
+    .bookstore-content{
+        display: block;
+    }
+    .bookstore-item{
+        width: 100%;
+        margin-block-end: 2rem;
+    }
+}

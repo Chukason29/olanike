@@ -27,7 +27,7 @@
                 <li><a href="event">Events</i></a></li>
                 <li><a href="contact">Contact us</a></li>
                 <li><a href="empowerment">Empowerment</a></li>
-                <li><a href="shop" target="_blank" id="mobile-header-booking">Shop</a></li>              
+                <li><a href="shop" id="mobile-header-booking">Shop</a></li>              
             </ul>
           </div>
         </div>

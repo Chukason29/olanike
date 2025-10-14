@@ -1,0 +1,44 @@
+#section-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    padding-block: 7rem;
+    background-color: rgb(240, 240, 240);
+}
+.section-two-div{
+    padding-block-start: 4rem;
+    width: 20%;
+    box-shadow: 0 0 12px #9A9A9A;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.section-two-div > div{
+    padding: 1rem;
+}
+.section-two-div i{
+    font-size: 3.5rem;
+    color: rgb(40, 41, 40);
+}
+.section-two-div h4{
+    color: #427834;
+    margin-block-end: .5rem;
+    margin-block-start: 3rem;
+    font-family: "DM Sans", sans-serif;
+}
+.section-two-div p{
+    font-size: 1rem;
+    font-family: "DM Sans", sans-serif;
+}
+@media screen and (max-width: 600px){
+    #section-two{
+        display: block;
+        padding: 2rem 1rem;
+    }
+    .section-two-div{
+        padding-block-start: 4rem;
+        width: 100%;
+        margin-block-end: 1rem;
+    }
+}
